@@ -1,3 +1,3 @@
 """
-Package engineering.transformation initialization.
+Package engineering-transformation initialization.
 """

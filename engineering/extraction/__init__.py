@@ -1,3 +1,3 @@
 """
-Package engineering.extraction initialization.
+Package engineering-extraction initialization.
 """

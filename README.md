@@ -230,9 +230,9 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ## Contact
 
-- [![LinkedIn][LinkedIn]][linkedin-url]
+- [![LinkedIn][linkedin-shield]][linkedin-url]
 
-- [![Outlook][Outlook]](mailto:jpcadena@espol.edu.ec?subject=[GitHub]onemetric-plus)
+- [![Outlook][outlook-shield]](mailto:jpcadena@espol.edu.ec?subject=[GitHub]onemetric-plus)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
