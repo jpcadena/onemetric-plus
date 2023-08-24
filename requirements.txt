@@ -84,9 +84,9 @@ prompt-toolkit==3.0.39
 psutil==5.9.5
 pure-eval==0.2.2
 pycparser==2.21
-pydantic==2.2.1
+pydantic==2.3.0
 pydantic-settings==2.0.3
-pydantic_core==2.6.1
+pydantic_core==2.6.3
 Pygments==2.16.1
 pyparsing==3.0.9
 pytest==7.4.0
