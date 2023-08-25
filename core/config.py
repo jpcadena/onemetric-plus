@@ -17,6 +17,7 @@ class InitSettings(BaseSettings):
         extra="allow",
     )
 
+    API_KEY: str 
     PROJECT_NAME: str = "onemetric-plus"
     MAX_COLUMNS: PositiveInt = 50
     WIDTH: PositiveInt = 1000

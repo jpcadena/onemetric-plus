@@ -18,12 +18,13 @@ class DataType(Enum):
     """
     Data Type class based on Enum
     """
-
+    # Fixme: Rename class to PathType
     RAW: str = "data/raw/"
     PROCESSED: str = "data/processed/"
     REFERENCES: str = "references/"
     FIGURES: str = "reports/figures/"
-
+    # Dash or Streamlit
+    
 
 class CSVManager:
     """

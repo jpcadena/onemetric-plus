@@ -977,3 +977,6 @@ orleans.codegen.cs
 data/creditos.rpt
 data/ventas.rpt
 data/pdvs.rpt
+data/raw/pdvs.rpt
+data/raw/creditos.rpt
+data/raw/ventas.rpt
